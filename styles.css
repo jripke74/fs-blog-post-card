@@ -19,6 +19,7 @@
 }
 
 .read-more {
+  display: inline-block;
   color: red;
   background-color: orange;
   margin: 11px;
