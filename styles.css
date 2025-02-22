@@ -14,8 +14,9 @@
   padding: 20px;
 }
 
-.post-title .post-excerpt {
+.post-title, .post-excerpt {
   color: purple;
+  margin: 23px;
 }
 
 .read-more {
